@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: new-facebook-like-share-follow-button\n"
+"POT-Creation-Date: 2018-08-10 15:47+0530\n"
+"PO-Revision-Date: 2018-08-10 15:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: facebook-all-buttons.php:8
+msgid "Facebook Like Share Follow Button"
+msgstr "फेसबुक शेयर शेयर का पालन करें बटन"
+
+#: facebook-all-buttons.php:9
+msgid ""
+"This is facebook like share follow widget you can add this in a widget area or wherever you want "
+"it is very easy to use."
+msgstr ""
+"यह शेयर फॉलो विजेट जैसे फेसबुक है, आप इसे विजेट क्षेत्र में जोड़ सकते हैं या जहां चाहें इसे उपयोग करना बहुत आसान है।"
+
+#: facebook-all-buttons.php:21 facebook-all-buttons.php:42 facebook-all-buttons.php:134
+#: facebook-all-buttons.php:149 facebook-follow-button.php:20 facebook-follow-button.php:64
+#: facebook-like-button.php:18 facebook-like-button.php:65
+msgid "https://www.facebook.com/awplife"
+msgstr ""
+
+#: facebook-all-buttons.php:23 facebook-all-buttons.php:45 facebook-all-buttons.php:136
+#: facebook-all-buttons.php:152 facebook-all-buttons.php:190 facebook-button-setting-page.php:171
+#: facebook-follow-button.php:23 facebook-follow-button.php:67 facebook-like-button.php:20
+#: facebook-like-button.php:67 facebook-like-button.php:90
+msgid "standard"
+msgstr "मानक"
+
+#: facebook-all-buttons.php:24 facebook-all-buttons.php:137 facebook-like-button.php:21
+#: facebook-like-button.php:68
+msgid "like"
+msgstr "पसंद"
+
+#: facebook-all-buttons.php:25 facebook-all-buttons.php:46 facebook-all-buttons.php:138
+#: facebook-all-buttons.php:153 facebook-follow-button.php:24 facebook-follow-button.php:68
+#: facebook-like-button.php:22 facebook-like-button.php:69 facebook-share-button.php:67
+msgid "large"
+msgstr "विशाल"
+
+#: facebook-all-buttons.php:26 facebook-all-buttons.php:47 facebook-all-buttons.php:139
+#: facebook-all-buttons.php:154 facebook-follow-button.php:25 facebook-follow-button.php:69
+#: facebook-like-button.php:23 facebook-like-button.php:70 facebook-share-button.php:68
+msgid "true"
+msgstr "सच"
+
+#: facebook-all-buttons.php:33 facebook-share-button.php:23 facebook-share-button.php:65
+msgid "http://www.awplife.com"
+msgstr ""
+
+#: facebook-all-buttons.php:49 facebook-all-buttons.php:156 facebook-follow-button.php:26
+#: facebook-follow-button.php:70 facebook-like-button.php:24 facebook-like-button.php:71
+#: facebook-share-button.php:30 facebook-share-button.php:69
+msgid "en_US"
+msgstr ""
+
+#: facebook-all-buttons.php:173 facebook-follow-button.php:73 facebook-like-button.php:74
+#: facebook-share-button.php:80
+msgid "Widget Title"
+msgstr "विजेट शीर्षक"
+
+#: facebook-all-buttons.php:176
+msgid "Facebook Like Button Settings"
+msgstr "बटन सेटिंग्स की तरह फेसबुक"
+
+#: facebook-all-buttons.php:179 facebook-all-buttons.php:255
+msgid "Share Url"
+msgstr "यूआरएल साझा करें"
+
+#: facebook-all-buttons.php:184 facebook-all-buttons.php:275 facebook-like-button.php:84
+msgid "Width"
+msgstr "चौड़ाई"
+
+#: facebook-all-buttons.php:188 facebook-all-buttons.php:230 facebook-button-setting-page.php:169
+#: facebook-button-setting-page.php:285 facebook-like-button.php:88 facebook-share-button.php:93
+msgid "Button Layout"
+msgstr "बटन लेआउट"
+
+#: facebook-all-buttons.php:191 facebook-all-buttons.php:262 facebook-button-setting-page.php:172
+#: facebook-button-setting-page.php:399 facebook-follow-button.php:84 facebook-like-button.php:91
+msgid "Box count"
+msgstr "बॉक्स गिनती"
+
+#: facebook-all-buttons.php:192 facebook-all-buttons.php:263 facebook-button-setting-page.php:173
+#: facebook-button-setting-page.php:400 facebook-follow-button.php:85 facebook-like-button.php:92
+msgid "Button count"
+msgstr "बटन गिनती"
+
+#: facebook-all-buttons.php:193 facebook-all-buttons.php:234 facebook-all-buttons.php:264
+#: facebook-button-setting-page.php:174 facebook-button-setting-page.php:289
+#: facebook-button-setting-page.php:401 facebook-follow-button.php:86 facebook-like-button.php:93
+#: facebook-share-button.php:97
+msgid "Button"
+msgstr "बटन"
+
+#: facebook-all-buttons.php:197 facebook-button-setting-page.php:180 facebook-like-button.php:97
+msgid "Button Action Type"
+msgstr "बटन एक्शन टाइप"
+
+#: facebook-all-buttons.php:199 facebook-button-setting-page.php:183 facebook-like-button.php:64
+#: facebook-like-button.php:99
+msgid "Like"
+msgstr "पसंद"
+
+#: facebook-all-buttons.php:200 facebook-button-setting-page.php:184 facebook-like-button.php:100
+msgid "Recommend"
+msgstr "सिफारिश"
+
+#: facebook-all-buttons.php:204 facebook-all-buttons.php:238 facebook-all-buttons.php:268
+#: facebook-button-setting-page.php:295 facebook-button-setting-page.php:407
+#: facebook-follow-button.php:90 facebook-like-button.php:104 facebook-share-button.php:101
+msgid "Button Size"
+msgstr "बटन के आकार"
+
+#: facebook-all-buttons.php:206 facebook-all-buttons.php:240 facebook-all-buttons.php:270
+#: facebook-button-setting-page.php:192 facebook-button-setting-page.php:297
+#: facebook-button-setting-page.php:409 facebook-follow-button.php:92 facebook-like-button.php:106
+#: facebook-share-button.php:103
+msgid "Small"
+msgstr "छोटा"
+
+#: facebook-all-buttons.php:207 facebook-all-buttons.php:241 facebook-all-buttons.php:271
+#: facebook-button-setting-page.php:193 facebook-button-setting-page.php:298
+#: facebook-button-setting-page.php:410 facebook-follow-button.php:93 facebook-like-button.php:107
+#: facebook-share-button.php:104
+msgid "Large"
+msgstr "विशाल"
+
+#: facebook-all-buttons.php:211 facebook-all-buttons.php:283 facebook-button-setting-page.php:198
+#: facebook-button-setting-page.php:415 facebook-follow-button.php:105 facebook-like-button.php:111
+msgid "Enable Show Faces"
+msgstr "चेहरे दिखाएँ सक्षम करें"
+
+#: facebook-all-buttons.php:212 facebook-all-buttons.php:246 facebook-all-buttons.php:284
+#: facebook-button-setting-page.php:201 facebook-button-setting-page.php:306
+#: facebook-button-setting-page.php:418 facebook-follow-button.php:106 facebook-like-button.php:112
+#: facebook-share-button.php:109
+msgid "Yes"
+msgstr "हाँ"
+
+#: facebook-all-buttons.php:213 facebook-all-buttons.php:247 facebook-all-buttons.php:285
+#: facebook-button-setting-page.php:203 facebook-button-setting-page.php:308
+#: facebook-button-setting-page.php:420 facebook-follow-button.php:107 facebook-like-button.php:113
+#: facebook-share-button.php:110
+msgid "No"
+msgstr "नहीं"
+
+#: facebook-all-buttons.php:218
+msgid "Facebook Share Button Settings"
+msgstr "फेसबुक शेयर बटन सेटिंग्स"
+
+#: facebook-all-buttons.php:221 facebook-share-button.php:84
+msgid "Share URL"
+msgstr "यूआरएल साझा करें"
+
+#: facebook-all-buttons.php:222 facebook-share-button.php:85
+msgid "Dynamic"
+msgstr "गतिशील"
+
+#: facebook-all-buttons.php:223 facebook-share-button.php:86
+msgid "Static"
+msgstr "स्थिर"
+
+#: facebook-all-buttons.php:226
+msgid "Url to share:"
+msgstr "साझा करने के लिए यूआरएल:"
+
+#: facebook-all-buttons.php:232 facebook-button-setting-page.php:287 facebook-share-button.php:95
+msgid "Box Count"
+msgstr "बॉक्स गणना"
+
+#: facebook-all-buttons.php:233 facebook-button-setting-page.php:288 facebook-share-button.php:96
+msgid "Button Count"
+msgstr "बटन गिनती"
+
+#: facebook-all-buttons.php:245 facebook-button-setting-page.php:303 facebook-share-button.php:108
+msgid "Enable Mobile Frame"
+msgstr "मोबाइल फ्रेम सक्षम करें"
+
+#: facebook-all-buttons.php:252 facebook-follow-button.php:10
+msgid "Facebook Follow Button"
+msgstr "फेसबुक बटन का पालन करें"
+
+#: facebook-all-buttons.php:259
+msgid "Button Layout Style:"
+msgstr "बटन लेआउट शैली:"
+
+#: facebook-all-buttons.php:261 facebook-button-setting-page.php:398 facebook-follow-button.php:83
+msgid "Standerd"
+msgstr "मानक"
+
+#: facebook-all-buttons.php:279
+msgid "Height"
+msgstr "ऊंचाई"
+
+#: facebook-all-buttons.php:288 facebook-follow-button.php:110 facebook-like-button.php:116
+#: facebook-share-button.php:113
+msgid "Widget Defalut Language"
+msgstr "विजेट डिफ़ॉल्ट भाषा"
+
+#: facebook-button-setting-page.php:5
+msgid "Facebook Setting"
+msgstr "फेसबुक सेटिंग"
+
+#: facebook-button-setting-page.php:6
+msgid "Docs"
+msgstr "डॉक्स"
+
+#: facebook-button-setting-page.php:7
+msgid "Our Theme"
+msgstr "हमारी थीम"
+
+#: facebook-button-setting-page.php:153
+msgid "Facebook Buttons Setting"
+msgstr "फेसबुक सेटिंग फेसबुक बटन सेटिंग"
+
+#: facebook-button-setting-page.php:157
+msgid "Facebook Like Button Setting"
+msgstr "बटन सेटिंग की तरह फेसबुक"
+
+#: facebook-button-setting-page.php:158
+msgid "Facebook Share Button Setting"
+msgstr "फेसबुक शेयर बटन सेटिंग"
+
+#: facebook-button-setting-page.php:159
+msgid "Facebook Follow Button Setting"
+msgstr "फेसबुक बटन सेटिंग का पालन करें"
+
+#: facebook-button-setting-page.php:190
+msgid "Button Type"
+msgstr "बटन प्रकार"
+
+#: facebook-button-setting-page.php:208 facebook-button-setting-page.php:312
+#: facebook-button-setting-page.php:424
+msgid "Show Button On Page"
+msgstr "पेज पर बटन दिखाएं"
+
+#: facebook-button-setting-page.php:211 facebook-button-setting-page.php:222
+#: facebook-button-setting-page.php:315 facebook-button-setting-page.php:326
+#: facebook-button-setting-page.php:427 facebook-button-setting-page.php:438
+msgid "Before Content"
+msgstr "सामग्री से पहले"
+
+#: facebook-button-setting-page.php:213 facebook-button-setting-page.php:224
+#: facebook-button-setting-page.php:317 facebook-button-setting-page.php:328
+#: facebook-button-setting-page.php:429 facebook-button-setting-page.php:440
+msgid "After Content"
+msgstr "सामग्री के बाद"
+
+#: facebook-button-setting-page.php:215 facebook-button-setting-page.php:226
+msgid "dont Show"
+msgstr "न दिखाओ"
+
+#: facebook-button-setting-page.php:219 facebook-button-setting-page.php:323
+#: facebook-button-setting-page.php:435
+msgid "Show Button On Post"
+msgstr "पोस्ट पर बटन दिखाएं"
+
+#: facebook-button-setting-page.php:231 facebook-button-setting-page.php:335
+#: facebook-button-setting-page.php:447
+msgid "Default Language"
+msgstr "डिफ़ॉल्ट भाषा"
+
+#: facebook-button-setting-page.php:319 facebook-button-setting-page.php:330
+#: facebook-button-setting-page.php:431 facebook-button-setting-page.php:442
+msgid "Dont Show"
+msgstr "न दिखाएं"
+
+#: facebook-button-setting-page.php:390
+msgid "Your Facebook Profile Url"
+msgstr "आपका फेसबुक प्रोफाइल यूआरएल"
+
+#: facebook-button-setting-page.php:396 facebook-follow-button.php:81
+msgid "Button Layout Style"
+msgstr "बटन लेआउट शैली"
+
+#: facebook-button-setting-page.php:498
+msgid "Please wait..."
+msgstr "कृपया प्रतीक्षा करें..."
+
+#: facebook-button-setting-page.php:500
+msgid "Save"
+msgstr "संचय"
+
+#: facebook-button-setting-page.php:505
+msgid "Try Our Other Free Plugins:"
+msgstr "हमारे अन्य नि: शुल्क प्लगइन्स आज़माएं:"
+
+#: facebook-button-setting-page.php:539
+msgid "Plugins Bale Offer"
+msgstr "प्लगइन्स बाले ऑफर"
+
+#: facebook-button-setting-page.php:540
+msgid "Get All Premium Plugin ( Personal Licence) in just $149"
+msgstr "केवल $149 में सभी प्रीमियम प्लगइन (व्यक्तिगत लाइसेंस) प्राप्त करें"
+
+#: facebook-button-setting-page.php:541
+msgid "For $149 Only"
+msgstr "केवल $149 के लिए"
+
+#: facebook-button-setting-page.php:544
+msgid "BUY NOW"
+msgstr "अभी खरीदें"
+
+#: facebook-follow-button.php:11
+msgid ""
+"This is facebook follow widget you can add this in a widget area or wherever you want it is very "
+"easy to use."
+msgstr "यह फेसबुक फॉलो विजेट है जिसे आप इसे विजेट क्षेत्र में जोड़ सकते हैं या जहां चाहें इसे उपयोग करना बहुत आसान है।"
+
+#: facebook-follow-button.php:63
+msgid "Follow"
+msgstr "अनुसरण"
+
+#: facebook-follow-button.php:77 facebook-like-button.php:79
+msgid "Share url"
+msgstr "यूआरएल साझा करें"
+
+#: facebook-follow-button.php:97
+msgid "Width:"
+msgstr "चौड़ाई:"
+
+#: facebook-follow-button.php:101
+msgid "Height:"
+msgstr "ऊंचाई:"
+
+#: facebook-like-button.php:8
+msgid "Facebook Like Button"
+msgstr "बटन की तरह फेसबुक"
+
+#: facebook-like-button.php:9
+msgid ""
+"This is facebook like widget you can add this in a widget area or wherever you want it is very "
+"easy to use."
+msgstr "यह विजेट की तरह फेसबुक है जिसे आप इसे विजेट क्षेत्र में जोड़ सकते हैं या जहां चाहें इसे उपयोग करना बहुत आसान है।"
+
+#: facebook-share-button.php:10
+msgid "Facebook Share Button"
+msgstr "फेसबुक शेयर बटन"
+
+#: facebook-share-button.php:11
+msgid ""
+"This is facebook share widget you can add this in a widget area or wherever you want it is very "
+"easy to use."
+msgstr "यह फेसबुक शेयर विजेट है जिसे आप इसे विजेट क्षेत्र में जोड़ सकते हैं या जहां चाहें इसे उपयोग करना बहुत आसान है।"
+
+#: facebook-share-button.php:53 facebook-share-button.php:63
+msgid "Share"
+msgstr "शेयर"
+
+#: facebook-share-button.php:64
+msgid "dynamic"
+msgstr "गतिशील"
+
+#: facebook-share-button.php:66
+msgid "box_count"
+msgstr ""
+
+#: facebook-share-button.php:89
+msgid "Url to share"
+msgstr "साझा करने के लिए यूआरएल"
